@@ -1,7 +1,7 @@
 # L2-B-hus30
 
 
-Checkout these links to explore more: 
+Sources which I have visited while exploring Blockchain & Cryptocurrencies
 
 https://cryptojobslist.com/ - Stay updated on Blockchain developer jobs
 
