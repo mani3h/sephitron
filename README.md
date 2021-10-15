@@ -14,3 +14,7 @@ https://multisender.app/ - Allows you to perform airdrop of tokens
 ![1_szRfkqONPG7_7MeMqElnfg](https://user-images.githubusercontent.com/59841174/134557052-949b0710-6b8d-466a-a465-21571700842d.jpg)
 
 https://cryptopals.com/
+
+
+
+Blockchain and crypto glossary: https://academy.binance.com/en/glossary (I prefer this mostly for understanding terms)
