@@ -17,4 +17,4 @@ https://cryptopals.com/
 
 
 
-Blockchain and crypto glossary: https://academy.binance.com/en/glossary (I prefer this mostly for understanding terms)
+Blockchain and crypto glossary: https://academy.binance.com/en/glossary (Much useful)
