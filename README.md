@@ -18,3 +18,5 @@ https://cryptopals.com/
 
 
 Blockchain and crypto glossary: https://academy.binance.com/en/glossary (Much useful)
+
+https://blog.ethereum.org/category/research-and-development/ - Some ETH related blogs
