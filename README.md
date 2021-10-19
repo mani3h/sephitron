@@ -3,6 +3,8 @@
 
 Sources which I have visited while exploring Blockchain & Cryptocurrencies
 
+FEEL FREE TO CONTRIBUTE
+
 https://cryptojobslist.com/ - Stay updated on Blockchain developer jobs
 
 https://www.dappuniversity.com/ - Paid bootcamp and some tuts on ethereum
