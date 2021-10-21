@@ -24,3 +24,5 @@ Blockchain and crypto glossary: https://academy.binance.com/en/glossary (Much us
 https://blog.ethereum.org/category/research-and-development/ - Some ETH related blogs
 
 ![ethereum mind map](https://user-images.githubusercontent.com/59841174/138242637-82ca939d-fb23-4038-bc08-e45362bc8584.PNG)
+
+![defi mindmap](https://user-images.githubusercontent.com/59841174/138242693-c35a2830-ab2a-4d48-941d-a8ef279d77aa.PNG)
