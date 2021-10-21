@@ -22,3 +22,5 @@ https://cryptopals.com/
 Blockchain and crypto glossary: https://academy.binance.com/en/glossary (Much useful)
 
 https://blog.ethereum.org/category/research-and-development/ - Some ETH related blogs
+
+![ethereum mind map](https://user-images.githubusercontent.com/59841174/138242637-82ca939d-fb23-4038-bc08-e45362bc8584.PNG)
