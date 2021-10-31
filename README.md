@@ -1,1 +1,1 @@
-Daily Notes
+#Daily Notes
