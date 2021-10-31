@@ -1,9 +1,9 @@
 # L2-B-hus30
 
 
-Sources which I have visited while exploring Blockchain & Cryptocurrencies
+Learning progress
 
-FEEL FREE TO CONTRIBUTE
+
 
 https://cryptojobslist.com/ - Stay updated on Blockchain developer jobs
 
@@ -28,3 +28,4 @@ https://blog.ethereum.org/category/research-and-development/ - Some ETH related 
 ![defi mindmap](https://user-images.githubusercontent.com/59841174/138242693-c35a2830-ab2a-4d48-941d-a8ef279d77aa.PNG)
 
 https://academy.binance.com/en/halving - Bitcoin halving page
+
