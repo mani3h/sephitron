@@ -1,1 +1,1 @@
-###BinanceAcademy Glossary Practice###
+####BinanceAcademy Glossary Practice####
