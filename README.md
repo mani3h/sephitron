@@ -1,1 +1,1 @@
-####BinanceAcademy Glossary Practice####
+Daily Notes
