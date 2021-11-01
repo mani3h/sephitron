@@ -28,3 +28,15 @@ The distribution of digital assets to the public, either by virtue of holding a 
 
 A sequence of unambigous instructions used for the purpose of solving a problem.
 
+# All or None Order (AON)
+
+An order which once placed, must be either filled in its entirety or not at all. This prevents any partial filling of odrers.
+
+# All-Time-High (ATH)
+
+The highest price of a cryptocurrency in a quote curenncy, such as a dollar,BTC,ETH or BNB.
+
+# Allocation
+
+An allotment of tokens or equity, that may be earned,purchased, or set aside for a certain investor, team, group, organization, orother related entity.
+
