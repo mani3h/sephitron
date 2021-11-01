@@ -40,3 +40,20 @@ The highest price of a cryptocurrency in a quote curenncy, such as a dollar,BTC,
 
 An allotment of tokens or equity, that may be earned,purchased, or set aside for a certain investor, team, group, organization, orother related entity.
 
+# Alpha
+
+The first look at a product released ata a team,conssiting of the very first version of a primitive,basic software or product.
+
+# Altcoin
+
+A crytpocurrency that is alternative to Bitcoin. Used to describe cryptocurrencies that are not Bitcoin.
+
+# Angel Investor
+
+Wealthy investors that seek out oppurtunities to provide funding for entrepreneurs or start-up companies.
+
+# Anti Money Laundering (AML)
+
+A framework consisting of a legal and regulatory procedures to minimize and curb the flow of funds that are generated from illegal or dubious activities.
+
+
