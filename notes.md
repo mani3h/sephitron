@@ -56,4 +56,14 @@ Wealthy investors that seek out oppurtunities to provide funding for entrepreneu
 
 A framework consisting of a legal and regulatory procedures to minimize and curb the flow of funds that are generated from illegal or dubious activities.
 
+# Application Programming Interface (API)
 
+A collection of functions and procedures that allow users to interact/communicate with the data of an application or service, such as an exchange, to execute the features of the service programmatically.
+
+# Application-Specific Integrated Circuit (ASIC)
+
+An Integrated Circuit customized for maximum performance in a particular use, rather than general-purpose use.
+
+# Arbitrage
+
+Buying and selling of assets over different markets in order to take advantage of differing proces on the same street.
