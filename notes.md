@@ -1,2 +1,2 @@
-#Binance Glossary
+# Binance Glossary
 
