@@ -12,7 +12,7 @@ Most generally, this represents EOA or contract that can receive (destination ad
 
 ## application binary interface (ABI)
 
-The standard way to interact with contracts in the Ethereum ecosystem, both form outside the blockchain and for contract-to-contract interactions.
+The standard way to interact with contracts in the Ethereum ecosystem, both from outside the blockchain and for contract-to-contract interactions.
 
 ## application programming interface
 
