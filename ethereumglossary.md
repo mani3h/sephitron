@@ -18,7 +18,7 @@ The standard way to interact with contracts in the Ethereum ecosystem, both form
 
 An application programming interface (API) is a set of definitions for how to use a piece of software. An API sits between an application and a web browser, and facilitates the transfer of data between them.
 
-# assert
+## assert
 
 In solidity, assert(false) compiles to 0xfe, an invalid opcode, which uses up all remaining gas and reverts all changes.When an assert() statement fails, something very wrong and unexpected is happening and you will need to fix your code. Yu should use assert() to avoid conditions that should never,ever occur.
 
