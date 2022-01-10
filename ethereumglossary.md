@@ -43,7 +43,7 @@ A collection of required information (a block header) about the comprised transa
 In Ethereum, a sequence of blocks validated by the proof-of-work system, each linking to its predecessor all the way to the genesis block.There is no block size limit,it instead uses varying gas limits.
 
 ## bytecode
-An abstrat instruction set designed for effiecient execution by a software interpreter or a virtual machine. Unlike human-readable source code, bytecode is expressed in numeric format.
+An abstract instruction set designed for effiecient execution by a software interpreter or a virtual machine. Unlike human-readable source code, bytecode is expressed in numeric format.
 
 ## Byzantium fork
 
