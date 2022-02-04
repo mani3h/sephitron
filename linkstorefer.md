@@ -30,3 +30,5 @@ https://blog.ethereum.org/category/research-and-development/ - Some ETH related 
 https://academy.binance.com/en/halving - Bitcoin halving page
 
 https://whiteboardcrypto.com/
+
+https://medium.com/stakingbits/setting-up-metamask-for-polygon-matic-network-838058f6d844
