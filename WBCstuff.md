@@ -37,3 +37,5 @@ https://whiteboardcrypto.com/impermanent-loss-calculator/
 Bridging Map:
 https://docs.google.com/spreadsheets/d/1Bc-J9Y_Z9MFEgoF1sHPvy2V6m0mx0byubU6uEAqGGws/edit?usp=sharing
 
+Security blog:
+https://thalpius.com/
