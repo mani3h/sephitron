@@ -39,3 +39,10 @@ https://docs.google.com/spreadsheets/d/1Bc-J9Y_Z9MFEgoF1sHPvy2V6m0mx0byubU6uEAqG
 
 Security blog:
 https://thalpius.com/
+
+Price Charts:
+DexGuru: https://dex.guru/
+QuickChart: https://quickchart.app/
+Bogged Finance: https://charts.bogged.finance/
+DexScreener: https://dexscreener.com/
+DexTools: https://www.dextools.io/app/
