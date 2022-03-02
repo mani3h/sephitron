@@ -46,3 +46,5 @@ QuickChart: https://quickchart.app/
 Bogged Finance: https://charts.bogged.finance/
 DexScreener: https://dexscreener.com/
 DexTools: https://www.dextools.io/app/
+
+https://cryptozombies.io/
