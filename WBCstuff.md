@@ -48,3 +48,6 @@ DexScreener: https://dexscreener.com/
 DexTools: https://www.dextools.io/app/
 
 https://cryptozombies.io/
+
+[Updated Coin_Token -whiteboardcrypto.pdf](https://github.com/manishchembeti/sephitron/files/8172146/Updated.Coin_Token.-whiteboardcrypto.pdf)
+
