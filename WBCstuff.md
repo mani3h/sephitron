@@ -51,3 +51,5 @@ https://cryptozombies.io/
 
 [Updated Coin_Token -whiteboardcrypto.pdf](https://github.com/manishchembeti/sephitron/files/8172146/Updated.Coin_Token.-whiteboardcrypto.pdf)
 
+Airdrops: https://airdrops.io/
+CoinMarketCal: https://coinmarketcal.com/en/
