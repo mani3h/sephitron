@@ -53,3 +53,9 @@ https://cryptozombies.io/
 
 Airdrops: https://airdrops.io/
 CoinMarketCal: https://coinmarketcal.com/en/
+
+Farm Finders
+Vfat: https://vfat.tools/
+Rugdoc: https://rugdoc.io/
+Dapp Radar: https://dappradar.com/rankings/category/defi
+Multifarm: https://www.multifarm.fi/
