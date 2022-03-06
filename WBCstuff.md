@@ -40,11 +40,16 @@ https://docs.google.com/spreadsheets/d/1Bc-J9Y_Z9MFEgoF1sHPvy2V6m0mx0byubU6uEAqG
 Security blog:
 https://thalpius.com/
 
-Price Charts:
+## Price Charts:
+
 DexGuru: https://dex.guru/
+
 QuickChart: https://quickchart.app/
+
 Bogged Finance: https://charts.bogged.finance/
+
 DexScreener: https://dexscreener.com/
+
 DexTools: https://www.dextools.io/app/
 
 https://cryptozombies.io/
@@ -52,6 +57,7 @@ https://cryptozombies.io/
 [Updated Coin_Token -whiteboardcrypto.pdf](https://github.com/manishchembeti/sephitron/files/8172146/Updated.Coin_Token.-whiteboardcrypto.pdf)
 
 Airdrops: https://airdrops.io/
+
 CoinMarketCal: https://coinmarketcal.com/en/
 
 ## Farm Finders
