@@ -69,3 +69,8 @@ Rugdoc: https://rugdoc.io/
 Dapp Radar: https://dappradar.com/rankings/category/defi
 
 Multifarm: https://www.multifarm.fi/
+
+## Calculators
+
+Impermenant Loss Calculator: https://baller.netlify.app/
+Interest Calculator: https://thecalculatorsite.com/finance/calculators/compoundinterestcalculator.php
