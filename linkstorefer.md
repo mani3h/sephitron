@@ -38,3 +38,5 @@ https://docs.google.com/spreadsheets/d/13f7RYobHL5PFVKVtOJw_QugpXyJqkVpjhxRNg6XG
 https://trufflesuite.com/trufflecon2020/
 
 https://devcon.org/en/
+
+https://ethglobal.com/
