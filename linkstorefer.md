@@ -36,3 +36,5 @@ https://medium.com/stakingbits/setting-up-metamask-for-polygon-matic-network-838
 https://docs.google.com/spreadsheets/d/13f7RYobHL5PFVKVtOJw_QugpXyJqkVpjhxRNg6XGt0k/htmlview# : basic blockchain starter kit
 
 https://trufflesuite.com/trufflecon2020/
+
+https://devcon.org/en/
