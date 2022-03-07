@@ -73,4 +73,23 @@ Multifarm: https://www.multifarm.fi/
 ## Calculators
 
 Impermenant Loss Calculator: https://baller.netlify.app/
+
 Interest Calculator: https://thecalculatorsite.com/finance/calculators/compoundinterestcalculator.php
+
+Whiteboard Crypto Newsletter: https://whiteboardcrypto.com/ (sign up here)
+
+Grandpa's Crypto: https://grandpascrypto.com/
+
+Bitcoinist: https://bitcoinist.com/
+
+Bitcoin Magazine: https://bitcoinmagazine.com/
+
+Bitcoin News: https://news.bitcoin.com/
+
+CoinDesk: https://www.coindesk.com/
+
+Cointelegraph: https://cointelegraph.com/
+
+Decrypt: https://decrypt.co/
+
+Rekt News: https://rekt.news/
