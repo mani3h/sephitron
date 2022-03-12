@@ -93,3 +93,7 @@ Cointelegraph: https://cointelegraph.com/
 Decrypt: https://decrypt.co/
 
 Rekt News: https://rekt.news/
+
+Bitcoinist: https://bitcoinist.com/
+Bitcoin Magazine: https://bitcoinmagazine.com/
+Bitcoin News: https://news.bitcoin.com/
