@@ -95,10 +95,16 @@ Decrypt: https://decrypt.co/
 Rekt News: https://rekt.news/
 
 Bitcoinist: https://bitcoinist.com/
+
 Bitcoin Magazine: https://bitcoinmagazine.com/
+
 Bitcoin News: https://news.bitcoin.com/
 
-To check if something is a scam Please note these are not perfect and may not include all information. They should not be your only source for researching!
+To check if something is a scam Please note these are not perfect and may not include all information. 
+They should not be your only source for researching!
+
 https://scam-alert.io/
+
 https://isthiscoinascam.com/
+
 https://tokensniffer.com/
