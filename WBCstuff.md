@@ -108,3 +108,11 @@ https://scam-alert.io/
 https://isthiscoinascam.com/
 
 https://tokensniffer.com/
+
+## Polygon faucets:
+https://matic.supply/
+https://faucet.axion.network/
+https://macncheese.finance/matic-polygon-mainnet-faucet.php
+
+Polygon Gasless Swap
+https://wallet.polygon.technology/gas-swap/
