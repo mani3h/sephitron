@@ -44,3 +44,5 @@ https://ethglobal.com/
 https://cryptocurrencyjobs.co/
 
 https://pompcryptojobs.com/
+
+https://web3.career/
