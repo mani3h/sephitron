@@ -48,3 +48,5 @@ https://pompcryptojobs.com/
 https://web3.career/
 
 https://crypto.jobs/
+
+https://www.useweb3.xyz/
