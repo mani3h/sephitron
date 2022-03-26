@@ -50,3 +50,5 @@ https://web3.career/
 https://crypto.jobs/
 
 https://www.useweb3.xyz/
+
+https://www.defi.jobs/
