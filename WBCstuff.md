@@ -120,3 +120,8 @@ https://macncheese.finance/matic-polygon-mainnet-faucet.php
 Polygon Gasless Swap
 
 https://wallet.polygon.technology/gas-swap/
+
+To check if something is a scam Please note these are not perfect and may not include all information. They should not be your only source for researching!
+https://scam-alert.io/
+https://isthiscoinascam.com/
+https://tokensniffer.com/
