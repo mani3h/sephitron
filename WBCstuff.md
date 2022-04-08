@@ -6,6 +6,9 @@ https://docs.google.com/spreadsheets/d/13f7RYobHL5PFVKVtOJw_QugpXyJqkVpjhxRNg6XG
 
 More will be added, but here are the official WBC links for things:
 
+Solidity NFT Contract Code:
+https://whiteboardcrypto.com/solidity-nft-code/
+
 Whiteboard Crypto
 https://whiteboardcrypto.com/
 
