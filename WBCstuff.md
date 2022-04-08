@@ -125,3 +125,9 @@ To check if something is a scam Please note these are not perfect and may not in
 https://scam-alert.io/
 https://isthiscoinascam.com/
 https://tokensniffer.com/
+
+## Other Faucets:
+
+Faucet Map:
+https://docs.google.com/spreadsheets/d/1clbA9IOgiyqtdgRPMOKH5rN-7N4gzlK4qBOiWrWJ5B4/edit?usp=sharing
+
