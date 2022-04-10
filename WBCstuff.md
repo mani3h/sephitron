@@ -131,7 +131,7 @@ https://tokensniffer.com/
 
 ## Other Faucets:
 
-Faucet Map:
+## Faucet Map:
 
 https://docs.google.com/spreadsheets/d/1clbA9IOgiyqtdgRPMOKH5rN-7N4gzlK4qBOiWrWJ5B4/edit?usp=sharing
 
