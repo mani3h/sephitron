@@ -141,3 +141,6 @@ https://stakely.io/faucet/juno
 Aurora faucet:
 
 https://aurora.dev/faucet
+
+Solana
+https://solfaucet.togatech.org/
