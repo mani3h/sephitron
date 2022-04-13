@@ -148,3 +148,6 @@ https://solfaucet.togatech.org/
 Rinkeby Testnet Faucets:
 https://faucet.rinkeby.io/
 https://faucets.chain.link/rinkeby
+
+Other testnet faucets:
+https://faucet.paradigm.xyz/ 
