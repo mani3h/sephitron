@@ -144,3 +144,7 @@ https://aurora.dev/faucet
 
 Solana
 https://solfaucet.togatech.org/
+
+Rinkeby Testnet Faucets:
+https://faucet.rinkeby.io/
+https://faucets.chain.link/rinkeby
