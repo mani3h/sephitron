@@ -54,3 +54,5 @@ https://www.useweb3.xyz/
 https://www.defi.jobs/
 
 https://bankless.pallet.com/jobs
+
+https://dreamofgoogle.hashnode.dev/ - Nisha jakhar blogs for solidity
