@@ -1,3 +1,3 @@
 # sephitron
 
-few links and sources i have seen during my learning process.
+sephitron provides a curated overview of rescources on Web3 development
