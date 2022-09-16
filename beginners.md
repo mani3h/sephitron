@@ -1,8 +1,3 @@
-# L2-B-hus30
-
-
-Learning progress
-
 
 
 https://cryptojobslist.com/ - Stay updated on Blockchain developer jobs
